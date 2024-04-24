@@ -1,5 +1,13 @@
 # SCI-method
 
+All data and code in this repository are associated with the following paper:
+
+Tran, D., Jacquet, M., Pearson, S., van Prooijen, B., and Verney, R. (2024). Estimation of
+mud and sand fractions and total concentration from coupled optical-acoustic sensors.
+https://github.com/duc-tran-vt/sci-method.git.
+
+Laboratory data used in this study obtained from a series of experiments conducted in the DEXMES facility in IFREMER.
+
 Note 1. The data is raw, uncalibrated signal. More detailed information is in Section 2.2 Data processing.
 
 Note 2. Files' names and what does it do

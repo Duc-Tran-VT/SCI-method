@@ -2,7 +2,7 @@
 
 Note 1. The data is raw, uncalibrated signal. More detailed information is in Section 2.2 Data processing.
 
-Note 2. Files' name and what does it do
+Note 2. Files' names and what does it do
 
 All.mat: Data from Q_set. 
 

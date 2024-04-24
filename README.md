@@ -2,9 +2,9 @@
 
 Note 1. The data is raw, uncalibrated signal. More detailed information is in Section 2.2 Data processing.
 
+Note 2. All.mat: Data from Q_set. S1S2.mat: Data from V_set
 
-
-Note 2. Notation used in the data file and in text of the manuscript:
+Note 3. Notation used in the data file and in text of the manuscript:
 
 abs: LISST_ABS 8 Mhz (Laser In-Situ Scattering and Transmissiometery - Acoustic Backscatter Sensor) (in manuscript read: A_8, unit: mg/L)
 

@@ -2,7 +2,17 @@
 
 Note 1. The data is raw, uncalibrated signal. More detailed information is in Section 2.2 Data processing.
 
-Note 2. All.mat: Data from Q_set. S1S2.mat: Data from V_set
+Note 2. Files' name and what does it do
+
+All.mat: Data from Q_set. 
+
+S1S2.mat: Data from V_set
+
+ABS.m: Processing data related to the sensor ABS and all optical sensors
+
+ADV.m: Processing data related to the sensor ADV and all optical sensors
+
+AQUA.m: Processing data related to the sensor AQUAscat and all optical sensors
 
 Note 3. Notation used in the data file and in text of the manuscript:
 

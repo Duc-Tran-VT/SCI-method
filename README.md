@@ -8,9 +8,9 @@ https://github.com/duc-tran-vt/sci-method.git.
 
 Laboratory data used in this study obtained from a series of experiments conducted in the DEXMES facility in IFREMER.
 
-Note 1. The data is raw, uncalibrated signal. More detailed information is in Section 2.2 Data processing.
+* Note 1. The data is raw, uncalibrated signal. More detailed information is in Section 2.2 Data processing.
 
-Note 2. Files' names and what does it do
+* Note 2. Files' names and what does it do
 
 All.mat: Data from Q_set. 
 
@@ -22,7 +22,7 @@ ADV.m: Processing data related to the sensor ADV and all optical sensors
 
 AQUA.m: Processing data related to the sensor AQUAscat and all optical sensors
 
-Note 3. Notation used in the data file and in text of the manuscript:
+* Note 3. Notation used in the data file and in text of the manuscript:
 
 abs: LISST_ABS 8 Mhz (Laser In-Situ Scattering and Transmissiometery - Acoustic Backscatter Sensor) (in manuscript read: A_8, unit: mg/L)
 

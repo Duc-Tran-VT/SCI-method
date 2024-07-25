@@ -46,4 +46,4 @@ hydro1: HydroScat-4, channel 420 nm (in manuscript read: O_420, unit: m-1)
 
 wet: Wetlabs_FLNTU 700 nm (in manuscript read: O_700, unit: NTU)
 
-C: concentration obtained from filtered water samples (in manuscript read: C, unit: mg/L)
+C: concentration obtained from filtered water sample (in manuscript read: C, unit: mg/L)
